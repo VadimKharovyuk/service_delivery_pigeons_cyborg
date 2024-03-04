@@ -20,4 +20,8 @@ public class MainController {
     public String anton(){
         return "anton";
     }
+    @GetMapping("/last")
+    public String last(){
+        return "last";
+    }
 }
