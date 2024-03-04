@@ -1,9 +1,8 @@
 body{
     margin: 0;
-}
-.header{
     background: black;
 }
+
 .header_main{
     display: flex;
     justify-content: center;
@@ -39,5 +38,6 @@ body{
     margin-left: 12px;
   margin-inside:44px;
     border-radius: 22px ;
+    margin-top: 66px;
 
 }
