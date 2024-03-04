@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+.header{
+    background: black;
+}
+.header_main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+}
+.header_nav{
+    margin-left: 120px;
+    margin-right: 180px;
+
+}
+.header_nav a {
+    color: white;
+    margin-right: 45px;
+    text-decoration: none;
+}
+.header_nav a:hover{
+    color: gray;
+}
+
+.header_text-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    color: white;
+    margin: 18px;
+
+}
+.logo{
+    width: 95px;
+    margin-left: 12px;
+  margin-inside:44px;
+    border-radius: 22px ;
+
+}

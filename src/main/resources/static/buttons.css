@@ -1,0 +1,11 @@
+.primary{
+    border: 1px solid #c72c2c;
+    background: transparent;
+    color: #ece6e6;
+    font-family: Jaini;
+    font-size: 21px;
+    border: none;
+}
+.primary:hover{
+    background-color: #a81233;
+}
