@@ -12,4 +12,8 @@ public class MainController {
     public String sergei(){
         return "sergei";
     }
+    @GetMapping("/edik")
+    public String edik (){
+        return "edik";
+    }
 }
