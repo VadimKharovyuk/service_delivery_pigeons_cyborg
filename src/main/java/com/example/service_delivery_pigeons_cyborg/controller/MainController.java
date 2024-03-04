@@ -8,4 +8,8 @@ public class MainController {
     public String home(){
         return "home";
     }
+    @GetMapping("/sergei")
+    public String sergei(){
+        return "sergei";
+    }
 }
