@@ -16,4 +16,8 @@ public class MainController {
     public String edik (){
         return "edik";
     }
+    @GetMapping("/anton")
+    public String anton(){
+        return "anton";
+    }
 }
